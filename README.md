@@ -1,5 +1,5 @@
 # node_experiments
 
-Logs with stimulation concurrent tasks
+Logs concurrent tasks with stimulation
 
 `node .`
